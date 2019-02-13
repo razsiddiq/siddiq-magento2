@@ -10,11 +10,19 @@ PHP7.3.0
 */
 
 
+Have Done First Two Challenges
+
+
 
 Download From WeTransfer since file is too large.
 
 
-https://wetransfer.com/downloads/59ed2b4e0cde233876e3ca23b22df3fa20190213130830/dc784847b2c6d764a0e6e866f861231220190213130830/d95487
+https://we.tl/t-vU9Cxk1uCY
+
+OR
+
+https://wetransfer.com/downloads/59ed2b4e0cde233876e3ca23b22df3fa20190213130830/370ba8
+
 
 
 Extract File to wishing folder
@@ -34,6 +42,10 @@ docker-compose up -d --build
 
 In a web browser, go to 127.0.0.1:8080 and make sure that you can see phpMyAdmin. If you can, it was a success.
 
+check docker cotainter by 
+
+docker ps
+
 
 Access your Docker web container's command line.
 
@@ -47,8 +59,6 @@ cd /app
 Optional but recommended: deploy sample data.
 
 php bin/magento sampledata:deploy
-
-
 
 you must replace the values on lines 2-6 with your own details. On lines 7-8, replace the placeholder domain
 
@@ -76,6 +86,8 @@ php bin/magento setup:install \
 
 
 
+
+
 Docker Commands
 
     Spin Up
@@ -93,6 +105,8 @@ Docker Commands
     Connect to database container CLI
 
     docker exec -it mysql bash
+
+
 
 
 
