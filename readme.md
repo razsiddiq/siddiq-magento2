@@ -12,19 +12,6 @@ PHP7.3.0
 
 Have Done First Two Challenges
 
-
-
-Download From WeTransfer since file is too large.
-
-
-https://we.tl/t-vU9Cxk1uCY
-
-OR
-
-https://wetransfer.com/downloads/59ed2b4e0cde233876e3ca23b22df3fa20190213130830/370ba8
-
-
-
 Extract File to wishing folder
 
 cd /Demo
